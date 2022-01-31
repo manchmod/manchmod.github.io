@@ -6,9 +6,15 @@
     <description>Recent content on blog.notch.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test post</title>
+      <link>/posts/test/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/test/</guid>
+      <description>test post this is some more text heres some code </description>
+    </item>
     
     <item>
       <title>about</title>
@@ -18,7 +24,7 @@
       <guid>/about/</guid>
       <description>I&amp;rsquo;m Greg. This is my blog, there are many like it, but this one is mine.
 Im guessing this will be sparsely populated, but the idea is to have a place to write about what I&amp;rsquo;m working on. I have a background in information security, DevOps, networking, reverse engineering, and systems architecture.
-There is a companion site for this one which has more technical documentation and reference material at docs.notch.org</description>
+There is a companion site for this one which has more technical documentation and reference material at docs.notch.org .</description>
     </item>
     
   </channel>
